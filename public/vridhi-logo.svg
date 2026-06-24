@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 56" fill="none" role="img" aria-label="Vridhi Credit">
+  <text x="0" y="38" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-weight="700" fill="#1a2744">Vridhi</text>
+  <text x="118" y="38" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-weight="700" fill="#c9982e">Credit</text>
+  <rect x="0" y="46" width="240" height="3" rx="1.5" fill="url(#gold)"/>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="240" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#b8862a"/>
+      <stop offset="0.5" stop-color="#d4a853"/>
+      <stop offset="1" stop-color="#f0d48a"/>
+    </linearGradient>
+  </defs>
+</svg>
