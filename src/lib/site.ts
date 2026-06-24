@@ -16,7 +16,7 @@ export const SITE = {
     city: "Gurugram – 122102",
     state: "Haryana, India",
   },
-  logo: "/vridhi-logo.svg",
+  logo: "/Logo_Site.jpeg",
 };
 
 export const NAV_LINKS = [
